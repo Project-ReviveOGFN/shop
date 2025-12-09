@@ -1,15 +1,15 @@
 {
   "daily": [
-    { "id": "AthenaBackpack:BID_229_LuckyRiderMale", "name": "Rainbow Clover", "price": 1500, "rarity": "epic" },
-    { "id": "AthenaDance:EID_RaiseTheRoof", "name": "Raise The Roof", "price": 200, "rarity": "uncommon" },
-    { "id": "AthenaGlider:Glider_ID_209_DonutPlate", "name": "Psi-Rider", "price": 1200, "rarity": "marvel" },
-    { "id": "AthenaDance:EID_Cyclone", "name": "Rage", "price": 500, "rarity": "icon" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_138_Gnome", "name": "Cold Snap", "price": 800, "rarity": "rare" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "Ice Breaker", "price": 500, "rarity": "uncommon" }
+    { "id": "AthenaBackpack:BID_229_LuckyRiderMale", "name": "", "price": 1500, "rarity": "epic" },
+    { "id": "AthenaDance:EID_RaiseTheRoof", "name": "", "price": 200, "rarity": "uncommon" },
+    { "id": "AthenaGlider:Glider_ID_209_DonutPlate", "name": "", "price": 1200, "rarity": "marvel" },
+    { "id": "AthenaDance:EID_Cyclone", "name": "", "price": 500, "rarity": "icon" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_138_Gnome", "name": "", "price": 800, "rarity": "rare" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "", "price": 500, "rarity": "uncommon" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion", "name": "Tigeress", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_457_Athena_Commando_F_SpaceGirl", "name": "Dare", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "Travis Scott", "price": 1200, "rarity": "icon" }
+    { "id": "AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion", "name": "", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_457_Athena_Commando_F_SpaceGirl", "name": "", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "", "price": 1200, "rarity": "icon" }
   ]
 }
