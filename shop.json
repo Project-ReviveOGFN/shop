@@ -1,15 +1,15 @@
 {
   "daily": [
-    { "id": "AthenaCharacter:BID_229_LuckyRiderMale", "name": "Frozen Nog Ops", "price": 0, "rarity": "epic" },
-    { "id": "AthenaDance:EID_RaiseTheRoof", "name": "Ring It On", "price": 0, "rarity": "uncommon" },
-    { "id": "AthenaCharacter:Glider_ID_209_DonutPlate", "name": "Lara Croft", "price": 0, "rarity": "marvel" },
-    { "id": "AthenaDance:EID_Cyclone", "name": "Jabba Switchway", "price": 0, "rarity": "icon" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_138_Gnome", "name": "Merry Mint Axe", "price": 0, "rarity": "rare" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "Star Wand", "price": 0, "rarity": "uncommon" }
+    { "id": "AthenaCharacter:BID_229_LuckyRiderMale", "name": "Dragacorn", "price": 0, "rarity": "epic" },
+    { "id": "AthenaDance:EID_RaiseTheRoof", "name": "Toosie Slide", "price": 0, "rarity": "uncommon" },
+    { "id": "AthenaCharacter:Glider_ID_209_DonutPlate", "name": "Scenario", "price": 0, "rarity": "marvel" },
+    { "id": "AthenaDance:EID_Cyclone", "name": "Take The L", "price": 0, "rarity": "icon" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_138_Gnome", "name": "Leviathan Axe", "price": 0, "rarity": "rare" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "Frozen Axe", "price": 0, "rarity": "uncommon" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion", "name": "Blizzabelle", "price": 0, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_457_Athena_Commando_F_SpaceGirl", "name": "Snowbell", "price": 0, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "", "price": 0, "rarity": "icon" }
+    { "id": "AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion", "name": "Unchained Ramirez", "price": 0, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_457_Athena_Commando_F_SpaceGirl", "name": "Wildcat", "price": 0, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "Rue", "price": 0, "rarity": "icon" }
   ]
 }
