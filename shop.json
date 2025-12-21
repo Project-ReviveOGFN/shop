@@ -1,15 +1,15 @@
 {
   "daily": [
-    { "id": "AthenaCharacter:BID_229_LuckyRiderMale", "name": "Dragacorn", "price": 1000, "rarity": "epic" },
-    { "id": "AthenaDance:EID_RaiseTheRoof", "name": "Toosie Slide", "price": 500, "rarity": "uncommon" },
-    { "id": "AthenaCharacter:Glider_ID_209_DonutPlate", "name": "Scenario", "price": 500, "rarity": "marvel" },
-    { "id": "AthenaDance:EID_Cyclone", "name": "Take The L", "price": 200, "rarity": "icon" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_138_Gnome", "name": "Leviathan Axe", "price": 800, "rarity": "rare" },
-    { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "Frozen Axe", "price": 700, "rarity": "uncommon" }
+    { "id": "AthenaCharacter:BID_229_LuckyRiderMale", "name": "Magic Wings", "price": 1200, "rarity": "epic" },
+    { "id": "AthenaDance:EID_RaiseTheRoof", "name": "", "price": 500, "rarity": "uncommon" },
+    { "id": "AthenaCharacter:Glider_ID_209_DonutPlate", "name": "Floss", "price": 500, "rarity": "rare" },
+    { "id": "AthenaDance:EID_Cyclone", "name": "Fresh", "price": 800, "rarity": "epic" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_138_Gnome", "name": "Cold Snap", "price": 800, "rarity": "rare" },
+    { "id": "AthenaPickaxe:Pickaxe_ID_014_WinterCamo", "name": "Candy Axe", "price": 1500, "rarity": "epic" }
   ],
   "featured": [
-    { "id": "AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion", "name": "Unchained Ramirez", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_457_Athena_Commando_F_SpaceGirl", "name": "Wildcat", "price": 1200, "rarity": "rare" },
-    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "Rue", "price": 800, "rarity": "icon" }
+    { "id": "AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion", "name": "Modena Icon", "price": 800, "rarity": "uncommon" },
+    { "id": "AthenaCharacter:CID_457_Athena_Commando_F_SpaceGirl", "name": "Celeste", "price": 1200, "rarity": "rare" },
+    { "id": "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone", "name": "Arcane Jinx", "price": 1500, "rarity": "gaming legends" }
   ]
 }
